@@ -12,3 +12,15 @@ https://assetstore.unity.com/packages/templates/tutorials/creator-kit-fps-149310
   
 Unity m_EditorVersion:  2021.1.15f1  
   
+KEYBOARD  
+  
+UP: w or up  
+DOWN: s or down  
+LEFT: a or left  
+RIGHT: d or right  
+JUMP: space  
+SHOOT:  left mouse  
+WEAPON:  numbers  
+RUN:  shift  
+MAP:  tab  
+PAUSE:  esc  
