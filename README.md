@@ -10,7 +10,7 @@ Free Assets downloaded from
   
 https://assetstore.unity.com/packages/templates/tutorials/creator-kit-fps-149310  
   
-Unity m_EditorVersion:  2021.1.15f1  
+Unity m_EditorVersion:  2021.1.20f1  
   
 KEYBOARD  
   
